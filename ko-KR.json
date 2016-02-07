@@ -51,27 +51,11 @@
   "notChange":"변경하지 않음",
   "registerHelp":"<회원가입>을 누르시면 플래닛 이용 약관, 개인정보 취급 방침에 동의하시게 됩니다.",
 
-  "color":{
-    "red":"빨강",
-    "pink":"분홍",
-    "purple":"보라",
-    "deep-purple":"진보라",
-    "indigo":"남색",
-    "blue":"파랑",
-    "light-blue":"하늘",
-    "cyan":"시안",
-    "teal":"청록",
-    "green":"초록",
-    "light-green":"연두",
-    "lime":"라임",
-    "yellow":"노랑",
-    "amber":"호박색",
-    "orange":"주황",
-    "deep-orange":"어두운 주황",
-    "brown":"갈색",
-    "grey":"회색",
-    "blue-grey":"청회색"
-  },
+  "language": {
+    "ko-KR":"한국어",
+    "en-US":"영어", 
+    "ja-JP":"일본어"
+  }
 
   "whosprofile":"{}님의 프로필",
   "editProfile":"프로필 수정",
