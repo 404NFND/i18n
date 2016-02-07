@@ -51,26 +51,10 @@
   "notChange":"변경하지 않음",
   "acceptAgreement":"약관 동의",
 
-  "color":{
-    "red":"Red",
-    "pink":"Pink",
-    "purple":"Purple",
-    "deep-purple":"Deep Purple",
-    "indigo":"Indigo",
-    "blue":"Blue",
-    "light-blue":"Sky Blue",
-    "cyan":"Cyan",
-    "teal":"Teal",
-    "green":"Green",
-    "light-green":"Light Green",
-    "lime":"Lime",
-    "yellow":"Yellow",
-    "amber":"Amber",
-    "orange":"Orange",
-    "deep-orange":"Deep Orange",
-    "brown":"Brown",
-    "grey":"Grey",
-    "blue-grey":"Blue Grey"
+  "language":{
+    "en-US":"English",
+    "ko-KR":"Korean",
+    "ja-JP":"Japanese"
   },
 
   "whosprofile":"{}'s profile",
