@@ -51,27 +51,11 @@
   "notChange":"修正しない",
   "acceptAgreement":"約款同意",
 
-  "color":{
-    "red":"赤",
-    "pink":"桃",
-    "purple":"紫",
-    "deep-purple":"濃い紫",
-    "indigo":"藍",
-    "blue":"青",
-    "light-blue":"空",
-    "cyan":"シアン",
-    "teal":"青緑",
-    "green":"緑",
-    "light-green":"薄緑",
-    "lime":"ライム",
-    "yellow":"黄",
-    "amber":"琥珀",
-    "orange":"橙",
-    "deep-orange":"暗い橙",
-    "brown":"褐",
-    "grey":"灰",
-    "blue-grey":"スレートグレー"
-  },
+  "language": {
+    "ja-JP":"日本語",
+    "ko-KR":"韓国語",
+    "en-US":"英語"
+  }
 
   "whosprofile":"{}さんのプロフィール",
   "editProfile":"プロフィール修正",
