@@ -56,7 +56,7 @@
     "pink":"桃",
     "purple":"紫",
     "deep-purple":"濃い紫",
-    "indigo":"藍",
+    "indigo":"藍",
     "blue":"青",
     "light-blue":"空",
     "cyan":"シアン",
@@ -73,7 +73,7 @@
     "blue-grey":"スレートグレー"
   },
 
-  "whosprofile":"{}ちゃんのプロフィール",
+  "whosprofile":"{}さんのプロフィール",
   "editProfile":"プロフィール修正",
   "useGravatar":"Gravatar使用",
   "whatIsGravatar":"Gravatarが何ですか？",
@@ -81,8 +81,8 @@
   "articleNotExist":"その文は存在しません。",
   "newNoticeNotFound":"新しいお知らせがありません。",
 
-  "noticeAddFriend":"{}ちゃんが友達要請を過ごしました。",
-  "noticeAcceptFriend":"{}ちゃんが友達要請を受諾しました。",
+  "noticeAddFriend":"{}さんが友達要請を過ごしました。",
+  "noticeAcceptFriend":"{}さんが友達要請を受諾しました。",
 
   "loginWithPlanet":"Planet IDでログイン"
 }
